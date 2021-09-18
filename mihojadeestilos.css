@@ -9,12 +9,25 @@
 
 #barralateral{
     background-color: darkgreen;
+    float:left;
+    height: 1500px;
 }
 
 #contenidoprincipal{
     background-color: darkorange;
+    margin-left: 200px;
+    padding-left: 15px;
+    padding-top: 15px;
 }
 
 #pieprincipal{
     background-color: deepskyblue;
+    clear:both;
+    margin-top: 50px;
+}
+
+li{
+background-color: cornsilk;
+display:inline;
+
 }
